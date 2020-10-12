@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Afgan Taufiq",
+            "alamat": "Bandung",
+            "umur": 25,
+            "nohp": "087824140294"
+        },
+        {
+            "id": 2,
+            "nama": "Bobby Rizki",
+            "alamat": "Jakarta",
+            "umur": 24,
+            "nohp": "087824140456"
+        },
+        {
+            "id": 3,
+            "nama": "Surya Lesmana",
+            "alamat": "Garut",
+            "umur": 27,
+            "nohp": "087824140098"
+        },
+        {
+            "id": 4,
+            "nama": "Alif Ramdan",
+            "alamat": "Semarang",
+            "umur": 28,
+            "nohp": "087824140769"
+        },
+        {
+            "id": 5,
+            "nama": "Billy Surya",
+            "alamat": "Surabaya",
+            "umur": 24,
+            "nohp": "087824140001"
+        },
+        {
+            "id": 6,
+            "nama": "Angga Wijaya",
+            "alamat": "Sukabumi",
+            "umur": 24,
+            "nohp": "087824140000"
+        },
+        {
+            "id": 7,
+            "nama": "Kemal",
+            "alamat": "Ngawi",
+            "umur": 24,
+            "nohp": "087824140001"
+        },
+        {
+            "id": 8,
+            "nama": "Rafi Ahmad",
+            "alamat": "Medan",
+            "umur": 24,
+            "nohp": "087824140001"
+        },
+        {
+            "id": 9,
+            "nama": "Agung Yunus",
+            "alamat": "Cimahi",
+            "umur": 24,
+            "nohp": "087824140001"
+        },
+        {
+            "id": 10,
+            "nama": "Mulyadi",
+            "alamat": "Lombok",
+            "umur": 24,
+            "nohp": "087824140001"
+        },
+        {
+            "id": 11,
+            "nama": "Risman Nurjaman",
+            "alamat": "Kuningan",
+            "umur": 24,
+            "nohp": "087824140001"
+        },
+        {
+            "id": 12,
+            "nama": "Septian Nugraha",
+            "alamat": "Palembang",
+            "umur": 24,
+            "nohp": "087824140001"
+        }
+    ]
+}
